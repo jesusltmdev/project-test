@@ -6,3 +6,4 @@ pryecto prueba
 * Bob Abreu
 * Andres Galarraga
 * Pepe Locuas
+* Jose Clemente
