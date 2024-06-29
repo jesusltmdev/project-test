@@ -1,8 +1,8 @@
 # project-test
 pryecto prueba
 
-#Colaboradores: 
+# Colaboradores: 
 
-##Bob Abreu
-##Andres Galarraga
-## Pepe Locuas
+* Bob Abreu
+* Andres Galarraga
+* Pepe Locuas
